@@ -5,4 +5,3 @@ I'm a Software Engineering student at the National University of Colombia with a
 Currently, I'm working on projects related to desktop apps in Python.
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Santi798&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santi798&layout=compact&theme=radical)
